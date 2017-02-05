@@ -4,7 +4,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/pe46dro/nginx-push-stream.svg?style=flat-square)](https://hub.docker.com/r/pe46dro/nginx-push-stream/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pe46dro/nginx-push-stream.svg?style=flat-square)](https://hub.docker.com/r/pe46dro/nginx-push-stream/)
 [![Docker Automated build](https://img.shields.io/docker/automated/pe46dro/nginx-push-stream.svg?style=flat-square)](https://hub.docker.com/r/pe46dro/nginx-push-stream/)
-[![Build Status](https://travis-ci.org/Pe46dro/nginx-push-multi-streaming.svg?branch=master)](https://travis-ci.org/Pe46dro/nginx-push-multi-streaming)
+[![Build Status](https://travis-ci.org/Pe46dro/nginx-push-stream.svg?branch=master)](https://travis-ci.org/Pe46dro/nginx-push-stream)
 
 ## Description
 
